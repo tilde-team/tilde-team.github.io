@@ -2,8 +2,11 @@
 
 this site is a static status page for tilde.team. 
 
-tilde.team is probably up, but if it's not, and you wound up here because of that,
-please check the topic of [#tilde.team on freenode](
+## places to check for info
+
+first, check [#team](https://kiwi.tilde.chat/#team) on tilde.chat.
+
+if tilde.chat is also down, please check [#tilde.team on freenode](
 http://webchat.freenode.net/?channels=%23tilde.team)
 
 here are some updown.io checks for [~ben](https://tilde.team/~ben/)'s infra.
@@ -19,4 +22,12 @@ here are some updown.io checks for [~ben](https://tilde.team/~ben/)'s infra.
 -   [benharr.is](https://status.benharr.is/)
 -   [tildegit.org](https://status.tildegit.org/)
 -   [tilde.chat](https://status.tilde.chat/)
+
+## incidents
+
+### august 4, 2020
+
+upgrade to ubuntu 20.04
+
+see more details [here](https://bhh.sh/pub/tilde.team-20.04-update.txt)
 
