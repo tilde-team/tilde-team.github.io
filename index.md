@@ -13,7 +13,8 @@ here are some updown.io checks for [~ben](https://tilde.team/~ben/)'s infra.
 
 [ben's main status page](https://status.bhh.sh/)
 
--   [infra.bhh.sh](https://status.infra.bhh.sh/)
+-   [hopey.bhh.sh](https://status.hopey.bhh.sh/)
+-   [ax101.bhh.sh](https://status.ax101.bhh.sh/)
 -   [ns1.tildeverse.net](https://status.ns1.tildeverse.net/)
 -   [tilde.team](https://updown.tilde.team/)
 -   [bsd.tilde.team](https://status.bsd.tilde.team/)
