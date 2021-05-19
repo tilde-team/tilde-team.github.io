@@ -6,8 +6,8 @@ this site is a static status page for tilde.team.
 
 first, check [#team](https://kiwi.tilde.chat/#team) on tilde.chat.
 
-if tilde.chat is also down, please check [#tilde.team on freenode](
-http://webchat.freenode.net/?channels=%23tilde.team)
+if tilde.chat is also down, please check [#tilde.team on libera](
+ircs://irc.libera.chat:6697/#tilde.team)
 
 here are some updown.io checks for [~ben](https://tilde.team/~ben/)'s infra.
 
@@ -31,4 +31,3 @@ here are some updown.io checks for [~ben](https://tilde.team/~ben/)'s infra.
 upgrade to ubuntu 20.04
 
 see more details [here](https://bhh.sh/pub/tilde.team-20.04-update.txt)
-
