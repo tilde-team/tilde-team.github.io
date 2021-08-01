@@ -26,6 +26,10 @@ here are some updown.io checks for [~ben](https://tilde.team/~ben/)'s infra.
 
 ## incidents
 
+### july 31/august 1, 2021
+
+something's broken and i don't know what the actual root cause is - ~khuxkm
+
 ### august 4, 2020
 
 upgrade to ubuntu 20.04
